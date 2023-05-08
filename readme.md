@@ -2,6 +2,8 @@
 
 ## Personalized Anime Recommendations  Based on MyAnimeList.net Data
 
+Data Source : https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+
 
 ---
 
